@@ -1,5 +1,6 @@
 ## 👋银河初现，宇宙回旋，很荣幸我们在此相遇。  
 **Oh, The night awakens from its slumber, and the stars traverse the universe. It's my honor to meet you here.**
+| ------------- | ------------- |
 我是 **CN171_11** ，一个初中生.png  
 I'm **CN171_11**, a middle school student.
 
