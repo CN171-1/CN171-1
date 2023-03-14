@@ -1,16 +1,12 @@
-### Hi there 👋
+## 👋银河初现，宇宙回旋，很荣幸我们在此相遇。  
+**Oh, The night awakens from its slumber, and the stars traverse the universe. It's my honor to meet you here.**
+我是 **CN171_11** ，一个初中生.png  
+I'm **CN171_11**, a middle school student.
 
-<!--
-**CN171-1/CN171-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⭐ 祝您生活愉快 Have a nice day :)
+<div align="center">
+  <!---访问次数统计--->
+**您是第** <img src="https://profile-counter.glitch.me/WForst_Breeze/count.svg" alt="icon" width="130px"> **位到访者**
+</div>
