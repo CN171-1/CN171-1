@@ -1,6 +1,6 @@
 ## 👋银河初现，宇宙回旋，很荣幸我们在此相遇。  
 **Oh, The night awakens from its slumber, and the stars traverse the universe. It's my honor to meet you here.**
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CN171-1&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)   
+[![CN171_11's GitHub stats](https://github-readme-stats.vercel.app/api?username=CN171-1)](https://github.com/anuraghazra/github-readme-stats)   
 我是 **CN171_11** ，一个中国学生.png   
 I'm **CN171_11**, a Chinese student.
 
@@ -13,6 +13,9 @@ I'm **CN171_11**, a Chinese student.
 - 🎮 和我玩 Minecraft | Play Minecraft with me
 - 🤔 还有更多…… | And more... 
 ### ⭐ 祝您生活愉快 Have a nice day :)
+
+---
+
 <div align="center">
   
   <!---访问次数统计--->
